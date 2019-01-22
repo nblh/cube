@@ -12,11 +12,11 @@ cari /api/vii/?action=manual_click&last_modified=2019-01-22%2008%3A02%3A13%20GMT
 
 Copy bagian itu terus save ke notepad HP mu dulu
 
-cara menjalankan nya bahan Termux
+cara menjalankan nya di Termux
 
 perintah
 
-$pkg install git
+pkg install git
 
 pkg install php
 
